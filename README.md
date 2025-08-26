@@ -20,7 +20,7 @@ Pandas – Data manipulation
 NumPy – Numeric operations
 Matplotlib – Data visualization
 
-##**Analysis Workflow**
+## **Analysis Workflow**
 
 Conversion Analysis
 Overall conversion rate into add_to_favorite.
